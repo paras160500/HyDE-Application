@@ -1,6 +1,7 @@
 # 🧬 HyDE Semantic Search Studio — Standard RAG vs. Hypothetical Document Embeddings
 <div align="center">
-![Architecture Diagram](diagram.png)
+ 
+
  
 ### 🌐 Live Deployment
  
@@ -9,6 +10,9 @@
 | 🖥️ **Frontend** | [Open Live Studio ↗](https://hyde-application-ngutenxj5mshhvvqkfgbay.streamlit.app/) | Streamlit Cloud |
 | 🚀 **Backend API** | [hyde-application.onrender.com ↗](https://hyde-application.onrender.com) | Render |
 | 📚 **API Docs** | [/docs ↗](https://hyde-application.onrender.com/docs) | Swagger UI |
+
+![Architecture Diagram](diagram.png)
+
  
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
